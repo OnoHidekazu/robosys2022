@@ -1,3 +1,3 @@
 #!/bin/bash
 
-../plus_stdin < ../nums
+../plus_stdin < nums
