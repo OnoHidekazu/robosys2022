@@ -1,1 +1,1 @@
-/home/ono/robosys2022
+pwd
