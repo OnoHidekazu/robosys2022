@@ -9,9 +9,9 @@ git clone https://github.com/OnoHidekazu/robosys2022.git
 
 ### 動作環境
 
--Ubuntu18.04
+- Ubuntu18.04
 
--python-version: ["3.7","3.8","3.9","3.10"] 
+- python-version: ["3.7","3.8","3.9","3.10"] 
 
 ### 動作例
 ```
