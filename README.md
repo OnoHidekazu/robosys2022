@@ -4,7 +4,6 @@
 
 # 導入方法
 ```
-# 導入方法
 git clone https://github.com/OnoHidekazu/robosys2022.git
 ``` 
 
@@ -16,7 +15,6 @@ python-version: ["3.7","3.8","3.9","3.10"]
 
 # 動作例
 ```
-# 動作例
 seq 0 1 10 | ./minus_stdin #入力する文章
 -55.0                      #計算結果
 
